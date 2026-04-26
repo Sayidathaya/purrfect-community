@@ -174,19 +174,6 @@ Breakpoint utama menggunakan:
 
 ---
 
-## 👤 Informasi Pembuat
-
-| | |
-|--|--|
-| **Nama** | *(Nama Mahasiswa)* |
-| **NIM** | *(NIM Mahasiswa)* |
-| **Kelas** | *(Kelas)* |
-| **Mata Kuliah** | Pemrograman Web |
-| **Tema** | Website Komunitas Hobi — Komunitas Pecinta Kucing |
-| **Lokasi** | Samarinda, Kalimantan Timur |
-
----
-
 <div align="center">
 
 Dibuat dengan ❤️ untuk para **cat lover** di Kalimantan Timur
